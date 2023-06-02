@@ -6,7 +6,17 @@
     <description>Recent content in Python on Ryan&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-tw</language>
-    <lastBuildDate>Fri, 02 Jun 2023 16:07:47 +0800</lastBuildDate><atom:link href="https://forest079-star.github.io/tags/python/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 02 Jun 2023 17:31:47 +0800</lastBuildDate><atom:link href="https://forest079-star.github.io/tags/python/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>測試第二篇文章</title>
+      <link>https://forest079-star.github.io/blog/second-post/</link>
+      <pubDate>Fri, 02 Jun 2023 17:31:47 +0800</pubDate>
+      
+      <guid>https://forest079-star.github.io/blog/second-post/</guid>
+      <description>我是第二篇文章 Hello World!
+我是 Ryan</description>
+    </item>
+    
     <item>
       <title>測試第一篇文章</title>
       <link>https://forest079-star.github.io/blog/test/</link>
